@@ -1,7 +1,8 @@
 # My Flipper animation - Lolicon Dance
 <b>萝莉摇 on flipper zero</b>   
 绿幕: https://www.youtube.com/watch?v=Cm6WDbmrvls
-![image](./image/demo.gif)
+![image](./image/demo.gif)  
+![image](./image/demo2.gif)
 
 # 开始
 自知技术力不足,剪辑编程样样不足  
